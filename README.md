@@ -1,6 +1,6 @@
 # Hack Me Gently – Cybersecurity Daily Logs 🚀
 
-Welcome to **Hack Me Gently** – your daily spot for quick cybersecurity notes and challenges! Below you'll find my learning journals organized by topic.
+Welcome to **Hack Me Gently** – my daily spot for cybersecurity notes and challenges! Below you'll find my learning journals organized by topic.
 
 ## 📂 Folders
 
