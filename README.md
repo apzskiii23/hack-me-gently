@@ -16,6 +16,8 @@ Welcome to **Hack Me Gently** – my daily spot for cybersecurity notes and chal
 - [TryHackMe](tryhackme/)  
   Walkthroughs, notes and write-ups of TryHackMe rooms and CTF challenges.
 
+- [Cybersecurity](cybersecurity/)  
+  My study notes and resources for the Cybersecurity mastering.
 ---
 
 > Ready to dive in? Pick a folder and let’s hack gently! 😎
