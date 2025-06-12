@@ -1,6 +1,6 @@
 # Computer Hardware Components
 > Topic: Computer Hardware Components  
-> Source: Provided summary  
+> Source: Roadmap.sh 
 > Date: 2025-06-12
 
 ---
